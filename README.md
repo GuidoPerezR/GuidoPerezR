@@ -1,6 +1,7 @@
-### Hi there 👋
-
-![RITH](https://user-images.githubusercontent.com/99307501/233511007-409762b8-a53f-467c-92bc-be58055f1f45.gif)
+<h1 align="center">Hi I'm Guido 👋</h1>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/99307501/233511007-409762b8-a53f-467c-92bc-be58055f1f45.gif" width=5rem>
+</div>
 
 <!--
 **GuidoPerezR/GuidoPerezR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
