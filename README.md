@@ -8,13 +8,13 @@
   <thead>
     <tr>
       <th>
-        <p>About me 😶‍</p>
+        <h3>About me 😶‍</h3>
       </th>
       <th>
-        <p>What I know</p>
+        <h3>What I know 🧠</h3>
       </th>
       <th>
-        <p>What I want to do next</p>
+        <h3>What I want to do next 🌠</h3>
       </th>
     </tr>
   </thead>
@@ -26,7 +26,7 @@
           <li>I love what I am doing. 💻</li>
           <li>I had created my first videogame called RITH. 🎮</li>
           <li>I am always learning new things. 🏫</li>
-          <li>I love cats</li>
+          <li>I love cats 🐈‍⬛</li>
         </ul>
       </td>
       <td>
@@ -40,13 +40,12 @@
       </td>
       <td>
         <ul>
-          <li>Finish my career</li>
-          <li>Become a Full-Stack Developer</li>
-          <li>Be the best version of me</li>
-          <li>Be happy</li>
+          <li>Finish my career 🧑‍🎓</li>
+          <li>Become a Full-Stack Developer 🧑‍💻</li>
+          <li>Be the best version of me 🐣</li>
+          <li>Be happy 🫶</li>
         </ul>
       </td>
     </tr>
   <tbody>
 </table>
-
