@@ -31,7 +31,7 @@
       </td>
       <td>
         <ul>
-          <li>HTML, CSS, JavaScript</li>
+          <li>HTML, CSS, JavaScript </li>
           <li>Python with Django</li>
           <li>Java</li>
           <li>PostgreSQL</li>
