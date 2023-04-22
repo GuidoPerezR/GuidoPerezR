@@ -4,35 +4,49 @@
   <p>My first videogame "RITH"</p>
 </div>
 
-<div>
-  <div class="about-me">
-    <h2>About me 😶‍🌫️</h2>
-    <ul>
-      <li>I am currently studying my career. 🤓</li>
-      <li>I love what I am doing. 💻</li>
-      <li>I had created my first videogame called RITH. 🎮</li>
-      <li>I am always learning new things. 🏫</li>
-      <li>I want to be the best version of me. 🐲</li>
-    </ul>
-  </div>
-  
-  <div class="what-i-know">
-  <h2>What I know 😶‍🌫️</h2>
-    <ul>
-      <li>HTML, CSS, JavaScript</li>
-      <li>Python with Django</li>
-      <li>Java</li>
-      <li>PostgreSQL</li>
-      <li>Unity</li>
-    </ul>
-  </div>
-  
-  <div class="what-i-want-to-do-next">
-  <h2>What I want to do next 😶‍🌫️</h2>
-    <ul>
-      <li>Finish my career</li>
-      <li>Become a Full-Stack Developer</li>
-      <li>Be happy</li>
-    </ul>
-  </div>
-</div>
+<table align="center">
+  <thead>
+    <tr>
+      <th>
+        <p>About me 😶‍</p>
+      </th>
+      <th>
+        <p>What I know</p>
+      </th>
+      <th>
+        <p>What I want to do next</p>
+      </th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+        <ul>
+          <li>I am currently studying my career. 🤓</li>
+          <li>I love what I am doing. 💻</li>
+          <li>I had created my first videogame called RITH. 🎮</li>
+          <li>I am always learning new things. 🏫</li>
+          <li>I love cats</li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+          <li>HTML, CSS, JavaScript</li>
+          <li>Python with Django</li>
+          <li>Java</li>
+          <li>PostgreSQL</li>
+          <li>Unity</li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+          <li>Finish my career</li>
+          <li>Become a Full-Stack Developer</li>
+          <li>Be the best version of me</li>
+          <li>Be happy</li>
+        </ul>
+      </td>
+    </tr>
+  <tbody>
+</table>
+
