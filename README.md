@@ -22,7 +22,7 @@
     <tr>
       <td>
         <ul>
-          <li>I am currently studying my career. 🤓</li>
+          <li>I am currently studying my major 🤓</li>
           <li>I love what I am doing. 💻</li>
           <li>I had created my first videogame called RITH. 🎮</li>
           <li>I am always learning new things. 🏫</li>
@@ -40,7 +40,7 @@
       </td>
       <td>
         <ul>
-          <li>Finish my career 🧑‍🎓</li>
+          <li>Finish my major 🧑‍🎓</li>
           <li>Become a Full-Stack Developer 🧑‍💻</li>
           <li>Be the best version of me 🐣</li>
           <li>Be happy 🫶</li>
