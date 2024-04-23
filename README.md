@@ -2,7 +2,7 @@
 
 <h3 align="center">👩‍💻  About Me</h3>
 
-<p align="center"><br>- 🔭 I’m currently studying Software Engineer<br>- 🧐 I'm currently learning React and Django<br>- 🎮 In my free time I like to play videogames</p>
+<p align="center"><br>- 🔭 I’m currently studying Software Engineer<br>- 🧐I'm currently learning React and Django<br>- 🎮 In my free time I like to play videogames</p>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=GuidoPerezR&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
