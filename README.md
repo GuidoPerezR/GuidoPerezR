@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋! My name is Guido and I'm a Software Developer</h1>
+<h1 align="left">Hi 👋! My name is Guido and I'm a Software Developer</h1>
 
 <h3 align="left">👩‍💻  About Me</h3>
 
