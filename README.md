@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋! My name is Guido and I'm a Software Developer</h1>
 
 <h3 align="center">👩‍💻  About Me</h3>
-###
 <p align="center"><br>- 🔭 I’m currently studying Software Engineer<br>- 🧐 I'm currently learning React and Django<br>- 🎮 In my free time I like to play videogames</p>
 
 <div align="center">
