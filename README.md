@@ -5,6 +5,10 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GuidoPerezR&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
+<h3 align="left">👩‍💻  About Me</h3>
+<p align="left"><br>- 🔭 I’m currently studying Software Engineer<br>- 🧐 I'm currently learning React and Django<br>- 🎮 In my free time I like to play videogames</p>
+
+
 <table align="center">
   <thead>
     <tr>
