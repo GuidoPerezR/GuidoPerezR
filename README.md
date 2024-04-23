@@ -6,6 +6,7 @@
 </div>
 
 <h3 align="left">👩‍💻  About Me</h3>
+###
 <p align="left"><br>- 🔭 I’m currently studying Software Engineer<br>- 🧐 I'm currently learning React and Django<br>- 🎮 In my free time I like to play videogames</p>
 
 
