@@ -1,7 +1,10 @@
 <h1 align="center">Hi 👋! My name is Guido and I'm a Software Developer</h1>
 
-<h3 align="center">👩‍💻  About Me</h3>
-<p align="center"><br>- 🔭 I’m currently studying Software Engineer<br>- 🧐 I'm currently learning React and Django<br>- 🎮 In my free time I like to play videogames</p>
+<img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGxpZXMyNGthamplanFmYnJldHYzMHNlM3l0bTI3djJvcXdhbXcyZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JIX9t2j0ZTN9S/giphy.gif"  />
+<h3 align="left">👩‍💻  About Me</h3>
+<p align="left">- 🔭 I’m currently studying Software Engineer<br>- 🧐 I'm currently learning React and Django<br>- 🎮 In my free time I like to play videogames</p>
+
+
 
 <h2 align="left">Language and tools</h2>
 
