@@ -44,14 +44,14 @@
 </table>
 <table align='center'>
     <tr>
-        <td valign="top">
+        <td width="100%" valign="top">
+        <h2 align='center'>SOCIALS</h2>
         <div align="center">
-            <h2>SOCIALS</h2>
             <div>
                 <a href="https://x.com/GU1DZ3RO">
                     <img src="https://upload.wikimedia.org/wikipedia/commons/5/53/X_logo_2023_original.svg" width="32" alt="X Logo" />
                 </a>
-                <span>&nbsp;</span>
+                &nbsp;&nbsp;&nbsp;&nbsp;
                 <a href="https://www.linkedin.com/in/guidoperezr/">
                     <img src="https://cdn-icons-png.flaticon.com/512/733/733561.png" width="32">
                 </a>
@@ -150,4 +150,5 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=GuidoPerezR&color=3C81BA&style=flat-square&label=Profile+Views" alt="Profile Views" />
 </div>
+
 
