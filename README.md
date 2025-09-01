@@ -15,7 +15,7 @@
             <p align='start'>🤖 Degree in Software Engineering </p>
             <p align='start'>🥇 Expert in center divs</p>
             <p align='start'>📖 Learning: Astro</p>
-            <p align='start'>📱 Another day, another headache trying to create a responsive design.</p>
+            <p align='start'>📱 Another day, another bug.</p>
         </div>
         </td>
         <td width="50%" valign="top">
@@ -58,3 +58,4 @@
 </table>
 
 ---
+
