@@ -14,7 +14,7 @@
             <img src="./profile.png" width="100" alt="Profile" />
             <p align='start'>🤖 Degree in Software Engineering </p>
             <p align='start'>🥇 Expert in center divs</p>
-            <p align='start'>📖 Learning: TypeScript</p>
+            <p align='start'>📖 Learning: React.js</p>
             <p align='start'>📱 Another day, another bug.</p>
         </div>
         </td>
@@ -58,6 +58,7 @@
 </table>
 
 ---
+
 
 
 
