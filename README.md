@@ -21,7 +21,7 @@
         <td width="50%" valign="top">
         <h2 align="center">Tech Stack</h2>
         <div align="center">
-        <img src="https://skillicons.dev/icons?i=html,css,js,py,tailwind,git,npm,pnpm,astro,ts&perline=2" alt="Iconos de tecnologías" width="50%"/>
+        <img src="https://skillicons.dev/icons?i=html,css,js,py,tailwind,git,npm,pnpm,astro,ts,react&perline=3" alt="Iconos de tecnologías" width="50%"/>
         </div>
         </td>
     </tr>
@@ -58,6 +58,7 @@
 </table>
 
 ---
+
 
 
 
