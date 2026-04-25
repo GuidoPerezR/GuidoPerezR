@@ -46,7 +46,7 @@
     <tr>
         <td width="100%" valign="top">
           <h2 align='center'>SOCIALS</h2>
-          <a href="https://x.com/GU1DZ3RO">
+          <a href="https://x.com/guidzero_">
               X
           </a>
           &nbsp;&nbsp;&nbsp;&nbsp;
